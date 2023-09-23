@@ -11,3 +11,12 @@ I'm Aham Gupta, a **final-year** **Electronics Engineering** student🎓😃and 
 - 👯 I’m looking to collaborate on **MERN** stack projects.
 - 🤔 I’m looking for help with **LLMs**.
 - 💬 Ask me about **Web Development** and **Machine Learning**.
+
+## 🤝 Connect with me 🤝
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][GitHub]
+<a href="mailto:ahamgupta18113@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+[linkedin]: https://www.linkedin.com/in/aham-gupta-18a02a202/
+[GitHub]: https://github.com/aham-18113

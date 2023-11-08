@@ -2,7 +2,7 @@
    🙏 Welcome to Aham's Github 🙏
 </h1>
 
-I'm Aham Gupta, a **final-year** **Electronics Engineering** student🎓😃and a keen learner who loves connecting and improvising himself✨. My main research areas include **Machine Learning**💻, **Computer Vision**👁️, and *Robotics**🤖. I'm exploring **Machine Learning** and **Large Language Models (LLMs)** 🧠📚. I'm passionate about acquiring new skills to solve real-world problems🌍. I'm eager to learn new technologies and implement them🚀.
+I'm Aham Gupta, a **final-year** **Electronics Engineering** student🎓😃and a keen learner who loves connecting and improvising himself✨. My main research areas include **Machine Learning**💻, **Computer Vision**👁️, and **Robotics**🤖. I'm exploring **Machine Learning** and **Large Language Models (LLMs)** 🧠📚. I'm passionate about acquiring new skills to solve real-world problems🌍. I'm eager to learn new technologies and implement them🚀.
 
 ## 🛠⚒ Work In Progress 🛠⚒
 

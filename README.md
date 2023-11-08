@@ -10,7 +10,7 @@ I'm Aham Gupta, a **final-year** **Electronics Engineering** student🎓😃and 
 - 🌱 I’m currently learning **Large Language Models (LLM)** and **Machine Learning**.
 - 👯 I’m looking to collaborate on **MERN** stack projects.
 - 🤔 I’m looking for help with **LLMs**.
-- 💬 Ask me about **Web Development** and **Machine Learning**.
+- 💬 Ask me about **Web Development**, **Computer Vision**, **Robotics** and **Machine Learning**.
 
 ## 🤝 Connect with me 🤝
 

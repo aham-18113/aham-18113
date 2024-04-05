@@ -8,7 +8,7 @@ I'm Aham Gupta, a **final-year** **Electronics Engineering** student🎓😃and 
 
 - 🔭 I’m currently working on **Personal Projects** and **Research Papers**.
 - 🌱 I’m currently learning **LLMs** and **ML**.
-- 👯 I’m looking to collaborate on **MERN** stack projects.
+- 👯 I’m looking to collaborate on **MongoDB, Express, React, and Node (MERN)** stack projects.
 - 🤔 I’m looking for help with **LLMs**.
 - 💬 Ask me about **Web Development**, **Computer Vision**, **Robotics** and **ML**.
 

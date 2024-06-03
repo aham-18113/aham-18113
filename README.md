@@ -2,7 +2,7 @@
    🙏 Namaste! Welcome to Aham's Github 🙏
 </h1>
 
-I'm Aham Gupta, a keen learner who loves connecting and improvising himself✨. My main interests include **Software Engineering** and **Machine Learning (ML)**✨. I'm exploring **ML** and **Large Language Models (LLMs)** 🧠. I'm passionate about acquiring new skills to solve real-world problems🌍. I'm eager to learn new technologies and implement them🚀.
+I'm Aham Gupta, a keen learner who loves connecting and improvising himself✨. My main interests include **Software Engineering** and **Machine Learning (ML)** ✨. I'm exploring **ML** and **Large Language Models (LLMs)** 🧠. I'm passionate about acquiring new skills to solve real-world problems🌍. I'm eager to learn new technologies and implement them🚀.
 
 ## 🛠⚒ Work In Progress 🛠⚒
 
